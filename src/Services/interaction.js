@@ -1,6 +1,6 @@
 
 export function hoverShop(){
-    var shopButton = document.getElementById("dropdown");
+    var shopButton = document.getElementById("buttonShop");
     var arrow = document.getElementById("arrow");
 
     shopButton.addEventListener("mouseover", function(){
